@@ -16,11 +16,9 @@
     "url": "https://github.com/jonaswirth/webpack-typescript-template/issues"
   },
   "homepage": "https://github.com/jonaswirth/webpack-typescript-template#readme",
-  "dependencies": {
-    "webpack": "^4.26.1",
-    "webpack-cli": "^3.1.2"
-  },
   "devDependencies": {
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2",
     "ts-loader": "^5.3.1",
     "typescript": "^3.2.1",
     "webpack-dev-server": "^3.1.10"
